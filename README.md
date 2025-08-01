@@ -10,8 +10,7 @@ A personal portfolio website for Kam Qi You, a Network and Security student pass
 - [Contact](#contact)
 - [Getting Started](#getting-started)
 - [Structure](#structure)
-
-[Portfolio Demo](https://youtu.be/bPWbrgky-DM)
+- [Portfolio Demo](https://youtu.be/bPWbrgky-DM)
 
 
 
